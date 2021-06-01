@@ -1,0 +1,119 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.fundo_esquerda{
+	background-image:url(images/esquerda.jpg);
+	background-position: right top;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+.fundo_direita{
+	background-image:url(images/direita.jpg);
+	background-position:left top;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+body,td,th {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #4a4a4a;
+}
+.menu {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #ae0a5f;
+}
+.menu:link {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+.menu:visited {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #ae0a5f;
+}
+.menu:hover {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #333;
+}
+.menu:active {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #ae0a5f;
+}
+a {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #5c5c5c;
+	width: 130px;
+}
+a:link {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	width: 120px;
+}
+a:visited {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #5c5c5c;
+}
+a:hover {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #E10B7B;
+	width: 130px;
+}
+a:active {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #5c5c5c;
+}
+
+h1{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #e20b7b;
+	margin: 0px;
+	padding: 0px;
+	font-weight: normal;
+}
+
+h2{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: #fff;
+	margin: 0px;
+	padding: 0px;
+	font-weight: normal;
+}
+.form{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #FFF;
+	background-color:#E10B7B;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	height: 35px;
+	width: 85%;
+	border-radius: 20px 20px 20px 20px;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+.form1{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333;
+	background-color: #F4F4F4;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	width: 100%;
+}
