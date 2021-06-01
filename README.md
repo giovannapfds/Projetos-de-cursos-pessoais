@@ -1,1 +1,0 @@
-Meus projetos desenvolvidos através de cursos e projetos pessoais.
